@@ -1,0 +1,7 @@
+USE rmcdb;
+
+DROP TABLE IF EXISTS album_song;
+DROP TABLE IF EXISTS album;
+DROP TABLE IF EXISTS song;
+
+COMMIT;
